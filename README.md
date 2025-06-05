@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## 🖼️ UI Preview
 
-> <img src="" alt="A preview of the application" width="150" height="320">
+> <img src="https://github.com/meKushdeepSingh/react-native-order-book-bitfinex/blob/main/src/assets/screenshots/image.png" alt="A preview of the application" width="150" height="320">
 
 # Getting Started
 
